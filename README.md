@@ -1,6 +1,10 @@
 # malachite-spirit
 Playing with HyperDev and KnockoutJS Awesomeness
 
-Need to make a 'hyperdev' branch for this to work
+I didn't pick the name, hyperdev did.
 
-https://malachite-spirit.hyperdev.space/
+Switch to `hyperdev` branch
+
+Edit it [here](https://hyperdev.com/#!/project/malachite-spirit)
+
+And watch it live reload [here](https://malachite-spirit.hyperdev.space/)
